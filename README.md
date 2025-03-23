@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Muthu Ganesh S
 ### ABOUT ME:
-I’m a creative problem-solver who thrives on tackling complex challenges with innovative thinking. My ability to approach situations from multiple perspectives allows me to uncover solutions that others might overlook. I excel in collaborative environments where diverse ideas come together, and I leverage strong analytical skills to break down intricate problems into actionable steps, ensuring a structured path toward effective outcomes.
+I’m a creative problem-solver who thrives on tackling complex challenges with innovative thinking. My ability to approach situations from multiple perspectives allows me to uncover solutions that others might overlook. I excel in collaborative environments where diverse ideas come together, and I leverage strong analytical skills to break down intricate problems into actionable steps, ensuring a structured path toward effective outcomes. <br/>
+ ✉️ contact: muthuganeshmg2004@gmail.com <br> 
 
 - Social Presence
 <br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muthuganesh-) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/muthuganesh2004?igsh=czFlczhjaXV3YjB4)
